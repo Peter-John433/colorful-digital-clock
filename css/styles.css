@@ -9,7 +9,8 @@ html,body{
     display: grid;
     place-items: center;
     height: 100%;
-    background-color: #000;
+    /* background-color: #000; */
+    background-image: linear-gradient(rgba(0, 0, 0, .9), rgba(0, 0, 0, .8)), url(../img/903592527e89088a44a4aa223759c40d.jpg);
     color: #fff;
 }
 /* html,body closed */
